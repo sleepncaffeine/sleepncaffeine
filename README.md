@@ -1,7 +1,8 @@
 ## About me
-A tired 🐈 who tries to keep learning <br>
-~NOOB~<br>
-Want to do what I want
+* 🐈 @sleepncaffeine
+* 🐈‍⬛ A learning student at Gwangju Science Academy
+* ⏳ Want to do what I want
+
 ### Interested at/Learning about
 * Machine Learning, Deep Learning
 * Artificial Inteligence
