@@ -10,9 +10,9 @@
 </p>
 
 ## About me
-* 🐈 @sleepncaffeine
-* 🐈‍⬛ A learning student at Gwangju Science Academy
-* ⏳ Want to do what I want
+* ☕ @sleepncaffeine
+* 🐈‍⬛ A learning student at GSA
+* 🍫 Want to do what I want
 
 ## Etc
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepncaffeine&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
