@@ -9,15 +9,19 @@
   </a>
 </p>
 
-## About me
-* ☕ @sleepncaffeine
-* 🐈‍⬛ A learning student
-* 🍫 Want to do what I want
- 
+<div class="About">
+  <h2 align='center'>About me</h2>
+  <ul>
+    <li>☕ @sleepncaffeine</li>
+    <li>🐈‍⬛ A learning student</li>
+    <li>🍫 Want to do what I want</li>
+  </ul>
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepncaffeine&layout=compact&theme=github_dark)
 
 <div class="portfolio">
-  <h2 align='center'>My Something Repositories</h1>
+  <h2 align='center'>My Something Repositories</h2>
   <ul>
     <li><a href="https://github.com/sleepncaffeine/Camera_Virtual_Mouse">Camera_Virtual_Mouse</a>: Virtual Mouse using hand gestures</li>
     <li><a href="https://github.com/sleepncaffeine/my_baekjoon">my_baekjoon</a>: Baekjoon Online Judge</li>
