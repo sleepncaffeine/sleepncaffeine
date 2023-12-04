@@ -17,8 +17,13 @@
     <li>🍫 Want to do what I want</li>
   </ul>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepncaffeine&layout=compact&theme=github_dark)
+<details>
+<summary>Stats</summary>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepncaffeine&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sleepncaffeine&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sleepncaffeine&theme=github_dark)
+</details>
 
 <div class="portfolio">
   <h2 align='center'>My Something Repositories</h2>
