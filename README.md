@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=300&section=header&text=Sleepn%27Caffeine&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Caffeine%20is%20Life&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:6f4d36,100:402d20&height=300&stroke=6F4E37&strokeWidth=1.5&section=header&text=Sleepn%27Caffeine&fontSize=90)
 <p align='center'> Contact Me </p>
 <p align='center'>
   <a href="mailto:parkjinjae0627@gmail.com">
@@ -32,10 +32,11 @@
     <li><a href="https://github.com/sleepncaffeine/my_baekjoon">my_baekjoon</a>: Baekjoon Online Judge</li>
     <li><a href="https://github.com/sleepncaffeine/C-LifeGame">C-LifeGame</a>: Game of Life made out with C</li>
     <li><a href="https://github.com/sleepncaffeine/ASCII_art_generator_from_URL">ASCII_art_generator_from_URL</a>: ASCII art generator from image URL</li>
+    <li><a href="https://github.com/sleepncaffeine/Double_pendulum">Double_pendulum</a>: Double Pendulum simulator with Java Swing</li>
     <li>etc</li>
   </ul>
 </div>
-<h2 align='center'>Me</h2>
+<h2 align='center'>Trivia</h2>
 <p align='center'>
   <a href="https://www.instagram.com/sleep.n.caffe_ine/">
     <img src="https://img.shields.io/badge/-Instargram-DD2A7B?style=flat&logo=instagram&logoColor=white"/>
