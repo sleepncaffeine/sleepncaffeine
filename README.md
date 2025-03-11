@@ -32,7 +32,4 @@
   <a href="https://www.instagram.com/sleep.n.caffe_ine/">
     <img src="https://img.shields.io/badge/-Instargram-DD2A7B?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCfrfmPSPXdQ2koJJQLxCUOQ">
-    <img src="https://img.shields.io/badge/-Youtube-DE3323?style=flat&logo=youtube&logoColor=white"/>
-  </a>
 </p>
