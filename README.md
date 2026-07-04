@@ -5,7 +5,8 @@
   <ul>
     <li>☕ @sleepncaffeine</li>
     <li>🐈‍⬛ A learning student</li>
-    <li>🍫 Want to do what I want</li>
+    <li>🍫 Dreamin'</li>
+    <li>🏢 Department of Cybersecurity, Korea Univ. </li>
   </ul>
 </div>
 <details>
@@ -27,9 +28,3 @@
     <li>etc</li>
   </ul>
 </div>
-<h2 align='center'>Trivia</h2>
-<p align='center'>
-  <a href="https://www.instagram.com/sleep.n.caffe_ine/">
-    <img src="https://img.shields.io/badge/-Instargram-DD2A7B?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-</p>
